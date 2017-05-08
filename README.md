@@ -9,5 +9,7 @@ this project is initiated to practice front-end/d3 coding on a map project
 as well as explore the analytics involved in geo data.
 
 The project can be view at this link:
-[https://noobpoke.github.io/SgCabMapProject01/](https://noobpoke.github.io/SgCabMapProject01/)
+[https://zeldon.github.io/SgCabMapProject01/](https://zeldon.github.io/SgCabMapProject01/)
+
+(A seperate development/experiment repo is found [here](https://noobpoke.github.io/SgCabMapProject01/) )
 
