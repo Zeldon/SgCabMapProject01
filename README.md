@@ -11,5 +11,5 @@ as well as explore the analytics involved in geo data.
 The project can be view at this link:
 [https://zeldon.github.io/SgCabMapProject01/](https://zeldon.github.io/SgCabMapProject01/)
 
-(A seperate development/experiment repo is found [here](https://noobpoke.github.io/SgCabMapProject01/) )
+(A seperate development/experiment repo is found [here](https://github.com/noobpoke/SgCabMapProject01) )
 
